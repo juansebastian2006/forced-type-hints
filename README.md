@@ -6,3 +6,5 @@ type was given compared with the set typehint on parameter
 ### Example
 `print('hello world, i'm still learning how to design README.md, be patient please, i will lader add a good one lol')`
 
+### :warning: Note :warning: 
+All variables gotta follow a typehint otherwise it'd not work well
