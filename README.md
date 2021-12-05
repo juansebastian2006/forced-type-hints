@@ -4,7 +4,7 @@ the function itself would throw an error if unexpected
 type was given compared with the set typehint on parameter 
 
 ### Example
-```
+```py
 from typing import get_type_hints
 
 def forced_type(func):
